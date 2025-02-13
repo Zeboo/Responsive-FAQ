@@ -1,0 +1,164 @@
+body{
+    width: Fixed (1,440px)px;
+height: Hug (1,221px)px;
+top: 1794px;
+left: 5753px;
+padding: 96px 0px 96px 0px;
+gap: 64px;
+opacity: 0px;
+background: #FFFFFF;
+
+}
+.header{
+    width: 768px;
+height: 44px;
+gap: 0px;
+opacity: 0px;
+//styleName: Display md/Semibold;
+font-style: 'Inter';
+font-size: 36px;
+font-weight: 600;
+line-height: 44px;
+letter-spacing: -0.02em;
+text-align: center;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+color: #101828;
+
+}
+.supporting-text{
+    width: 768px;
+height: 30px;
+gap: 0px;
+opacity: 0px;
+//styleName: Text xl/Normal;
+font-style: 'Inter';
+font-size: 20px;
+font-weight: 400;
+line-height: 30px;
+text-align: center;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+color: #667085;
+
+
+}
+.content{
+    width: Fixed (768px)px;
+height: Hug (513px)px;
+gap: 32px;
+opacity: 0px;
+display:flex !important;
+justify-content:space-between !important;
+
+
+}
+.text{
+    width: 720px;
+height: 28px;
+gap: 0px;
+opacity: 0px;
+//styleName: Text lg/Medium;
+font-style: 'Inter';
+font-size: 18px;
+font-weight: 500;
+line-height: 28px;
+text-align: left;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+color: #101828;
+
+}
+.paraghraph{
+    width: 720px;
+height: 48px;
+gap: 0px;
+opacity: 0px;
+//styleName: Text md/Normal;
+font-style: "Inter";
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+text-align: left;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+color: #667085;
+
+}
+.footer{
+    width: Fill (1,216px)px;
+height: Hug (294px)px;
+padding: 32px 0px 0px 0px;
+gap: 32px;
+border-radius: 16px 0px 0px 0px;
+opacity: 0px;
+
+}
+.text-heading{
+    width: 768px;
+height: 30px;
+gap: 0px;
+opacity: 0px;
+//styleName: Text xl/Medium;
+font-style: 'Inter';
+font-size: 20px;
+font-weight: 500;
+line-height: 30px;
+text-align: center;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+color: #101828;
+
+}
+.supporting-footer-text{
+    width: 768px;
+height: 28px;
+gap: 0px;
+opacity: 0px;
+font-style: 'Inter';
+font-size: 18px;
+font-weight: 400;
+line-height: 28px;
+text-align: center;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+color: #667085;
+
+
+}
+.button{
+    width: Hug (130px)px;
+height: Hug (44px)px;
+padding: 10px 18px 10px 18px;
+gap: 8px;
+border-radius: 8px 0px 0px 0px;
+border: 1px 0px 0px 0px;
+opacity: 0px;
+color: #7F56D9;
+
+}
+.hr{
+    width: 730px;
+height: 1px;
+gap: 0px;
+opacity: 0px;
+background: #EAECF0;
+
+
+}
+.icon{
+width: Hug (24px)px;
+height: Hug (26px)px;
+padding: 2px 0px 0px 0px;
+gap: 0px;
+opacity: 0px;
+
+}
+.sep{
+    
+gap: 0px;
+opacity: 0px;
+color: #9c9da0;
+
+
+}
